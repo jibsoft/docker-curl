@@ -1,6 +1,6 @@
 # Docker-curl
 ---
-Like it says, it's a docker image built on alpine with curl installed and and only 7 MB!!
+Like it says, it's a docker image built on alpine with curl installed and only 7 MB!!
 
 ## Usage
 
