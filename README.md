@@ -10,7 +10,7 @@ $ docker run --rm mrnonz/curl curl -fsSL https://www.google.com/
 
 ## Tags
 
-* `mrnonz/curl:latest`: based on `alpine:latest`
+* `mrnonz/curl:latest` based on `alpine:latest`
 
 ## License
 
