@@ -5,15 +5,15 @@ Like it says, it's a docker image built on alpine with curl installed and only 7
 ## Usage
 
 ```console
-$ docker run --rm mrnonz/curl curl -fsSL https://www.google.com/
+$ docker run --rm jibsoft/curl curl -fsSL https://www.google.com/
 ```
 
 ## Tags
 
-* `mrnonz/curl:latest` based on `alpine:latest`
+* `jibsoft/curl:latest` based on `alpine:latest`
 
 ## License
 
-Copyright © 2019 Nontawat Numor
+Copyright © 2019 JIBSoft
 
 All contents licensed under the [MIT License](LICENSE)
